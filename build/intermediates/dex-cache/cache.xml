@@ -1,0 +1,1238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_a5a70adedef2694074a4047512cddcb44b0bdf6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_a764345f2862d4a75cfa336895858a53b5f33d13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_ff93e3a9dc4b322871ea0a47c54d2270f9a17c16\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-10.0.1_9b7fde92570e9c66f4ab194aef935bda8c755e6b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.0_6aa45975c381385a354b334684da585742e74826\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_7986661ad7e7df5a364edeb8ab3aad764f66077b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_2e649216f3faac761d464de1fd1649c30263a7aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_1021f4f46429dac5d3abbe51f684ef26b968a061\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-10.0.1_e5fc15f178dea5e6090c0369eeee5f5d90ee6911.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_726661260dcfe4f95f8faf68de5a8ce9780e60f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-10.0.1_37d5c0323bb6c9b32d02952464059d176f2ac509.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48e458f42dc3b7d7821bbdb10e5161ef297bba8f">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7f7b04052d3782b24e6ba3b99457b329c794a43c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_12be0cd477a318f688173a5422e245511ad0184e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-10.0.1_f63ebf60d079f6c01f9283445e20031c7606d5c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.0.1_b1d1fac83ca4c25b0b208ec7ab5b86e715fd4258.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-framework-10.0.1_6764edfa28de90fcffa830a88cce131046fb44b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-10.0.1_ab5948401b70843ed6a65965896bf1f4537f9a9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-10.0.1_7004251f8f576a3f3d28b752ae518ece9c57070e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_ea7da1855de2e763e86b520a132f4c505d8a5e81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_ac57be09b0b2c22899718bfc76772d28bc748e12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_4e1a3b7fb3278b249e9a979bb2dec2132de0ca7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.0.1_2c50b61c52b70327587b8f4bb71fff770779c769.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-awareness-10.0.1_e3cddcc5ed9fd738fc23335126d54437115769b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.1.0_b10cf82fbd4adb9985ca0e5e96932cc485c14dcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Users\swapsha96\AppData\Local\Android\sdk4\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_809b50cfed9f7d83f448ea0ca58431dd163e7f8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-10.0.1_8574c0614c236e82d75d2e396b27a6f86adfb6b2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_3d6b2b52eca73fcee19066093b2dd3e8475ed8f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_0095e695f19606d777ea0075c9d4615f5ea6ac40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-10.0.1_d5111442be3df547a006e8f9e6b64b11c27fa53b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_9b7fde92570e9c66f4ab194aef935bda8c755e6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_dbe426bc8e56c0bef0b0ed992f263c73e24095fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_dbe426bc8e56c0bef0b0ed992f263c73e24095fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-10.0.1_a764345f2862d4a75cfa336895858a53b5f33d13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-24.0.0_0068b67a9dc7fd3eb13269f1ea3d3d06be7cfb68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_f197e02cbe0531639600c22e9cbe290ff5089abd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_8502881096e325c4e99ce86fbdb794f0d9e2e832\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.0.1_726661260dcfe4f95f8faf68de5a8ce9780e60f8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="233227869716e5fccca0749db68f076964dc4a4f">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1a512e3118cc622088cbedc007cdac8b02e90689\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_e5fc15f178dea5e6090c0369eeee5f5d90ee6911\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.0_7b2eb1e12b258d736612e770ca1bbded21c45ecb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_ab0a44d462aed783534a27d357adb1d11181801b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-10.0.1_12be0cd477a318f688173a5422e245511ad0184e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_acf6adbeda53ea46630ca5a84150b59abfba4d5d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_f63ebf60d079f6c01f9283445e20031c7606d5c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_2e649216f3faac761d464de1fd1649c30263a7aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-10.0.1_897dd57735c311228f96bd604f79c557883beff3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_1514bb9da931893115a29968756a90e220436b23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_3f049a42b43c3305d0fa3de7314ad90cf9d5e124\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-10.0.1_68e6c7e845677ff061c1c148be1328898f74cc37.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_ab5948401b70843ed6a65965896bf1f4537f9a9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.0_5601b5371b3060b7ce4301d59b3e9090cc2ada76\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_a0397f1243d2417b082f38fcf71c02f7598bd77a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_ddbdd5366ff5ff0c369f18f32c3c909c8de9e482.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_6f6ca5a4bc58ab672cdb36b68bef1dabb34d9600\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_6764edfa28de90fcffa830a88cce131046fb44b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-10.0.1_27d2d976c07deac15424e59f69245652087ac143.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-10.0.1_ac57be09b0b2c22899718bfc76772d28bc748e12.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_6a14bd58fa43415a2f31dc94d6d0d2a0be5e1b7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Users\swapsha96\AppData\Local\Android\sdk4\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_809b50cfed9f7d83f448ea0ca58431dd163e7f8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_3d6b2b52eca73fcee19066093b2dd3e8475ed8f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-10.0.1_a16a7356b78a129fd891e1e025b0c4d36ed2482d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_8574c0614c236e82d75d2e396b27a6f86adfb6b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_e3cddcc5ed9fd738fc23335126d54437115769b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_6b1cce1d5e18811dae7acb5c0d88c633a68fe040\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-instantapps-10.0.1_18efb9fb81ed076618db869838e228456f0c37ca.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_0068b67a9dc7fd3eb13269f1ea3d3d06be7cfb68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_f197e02cbe0531639600c22e9cbe290ff5089abd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.sothree.slidinguppanel\library\3.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab8a4903076897a8fe029433ba0c3c3f958712ce">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.sothree.slidinguppanel-library-3.3.1_3c78854359346a1e1e34a6e732d7e9b11f323f46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_8502881096e325c4e99ce86fbdb794f0d9e2e832.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_34143eb53eaa038a2d37251a8b1310a47a45adc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.0_7b2eb1e12b258d736612e770ca1bbded21c45ecb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_50edbc73af7c37b3fa381d997508e18b717d4275\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_98ab3e2eee3daccc80c854e6dcabce6b5b852eaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-10.0.1_689f68c02ad37f869228edf16a218b2c785dba5e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_68e6c7e845677ff061c1c148be1328898f74cc37\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-10.0.1_ab0a44d462aed783534a27d357adb1d11181801b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-10.0.1_90289ba3b8de1e7891684ce57ea3d723e0370d31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-appindexing-10.0.1_1fc13aa110f03a76d6771b0cf238ac1c59a17105.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-10.0.1_28423646a9acf8e714e3f6f71074f9846ca77e16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-10.0.1_3f049a42b43c3305d0fa3de7314ad90cf9d5e124.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_897dd57735c311228f96bd604f79c557883beff3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-10.0.1_017544633903bbc381ed17824f4d80b9d0b3c7c0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\swapsha96\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_e3d5dfc9d2d1251353100acaae0634c32cc3a728\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-10.0.1_aa572994e757c0612b9aca0987949b089d33d39e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_27d2d976c07deac15424e59f69245652087ac143\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_acf6adbeda53ea46630ca5a84150b59abfba4d5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-10.0.1_96d1021c5b89d39d38860356d1673960b4ce0381.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_a0397f1243d2417b082f38fcf71c02f7598bd77a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_33419198c65414fe1c903a9c0436cebd2fead242\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_756c6af16770b1436de2c9a7d5908d8a3c876e56\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-10.0.1_6a14bd58fa43415a2f31dc94d6d0d2a0be5e1b7a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_a16a7356b78a129fd891e1e025b0c4d36ed2482d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_268d2c3190a09cb760b91d38a7201f0be71d00d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-10.0.1_cc53db82711e525f6ad35fd90e20ff35d5c63413.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-24.0.0_b5b4bcbc5f782e71804f3e31819ca40e02c40889.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_cb2b689d60745ab883f26d78fddd66854a91d929.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_f122e12c3c56e9b5a0279b230d42c3cb2265a71d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_ddbdd5366ff5ff0c369f18f32c3c909c8de9e482\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_6b1cce1d5e18811dae7acb5c0d88c633a68fe040.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_5601b5371b3060b7ce4301d59b3e9090cc2ada76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-10.0.1_014dd33f787b29bf9e7e5f66efc270c8b05bee69.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_18efb9fb81ed076618db869838e228456f0c37ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_34143eb53eaa038a2d37251a8b1310a47a45adc6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-10.0.1_a5a70adedef2694074a4047512cddcb44b0bdf6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-10.0.1_ff93e3a9dc4b322871ea0a47c54d2270f9a17c16.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_b5b4bcbc5f782e71804f3e31819ca40e02c40889\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.0_6aa45975c381385a354b334684da585742e74826.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.sothree.slidinguppanel\library\3.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab8a4903076897a8fe029433ba0c3c3f958712ce">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.sothree.slidinguppanel-library-3.3.1_3c78854359346a1e1e34a6e732d7e9b11f323f46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_689f68c02ad37f869228edf16a218b2c785dba5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-10.0.1_98ab3e2eee3daccc80c854e6dcabce6b5b852eaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-10.0.1_50edbc73af7c37b3fa381d997508e18b717d4275.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_7986661ad7e7df5a364edeb8ab3aad764f66077b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_37d5c0323bb6c9b32d02952464059d176f2ac509\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_28423646a9acf8e714e3f6f71074f9846ca77e16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_1fc13aa110f03a76d6771b0cf238ac1c59a17105\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_b1d1fac83ca4c25b0b208ec7ab5b86e715fd4258\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-10.0.1_1021f4f46429dac5d3abbe51f684ef26b968a061.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_ea7da1855de2e763e86b520a132f4c505d8a5e81.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_7004251f8f576a3f3d28b752ae518ece9c57070e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\swapsha96\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\glide-3.7.0_e3d5dfc9d2d1251353100acaae0634c32cc3a728.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_4e1a3b7fb3278b249e9a979bb2dec2132de0ca7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-10.0.1_1514bb9da931893115a29968756a90e220436b23.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_aa572994e757c0612b9aca0987949b089d33d39e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_96d1021c5b89d39d38860356d1673960b4ce0381\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_2c50b61c52b70327587b8f4bb71fff770779c769\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_268d2c3190a09cb760b91d38a7201f0be71d00d9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_017544633903bbc381ed17824f4d80b9d0b3c7c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_90289ba3b8de1e7891684ce57ea3d723e0370d31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.1.0_b10cf82fbd4adb9985ca0e5e96932cc485c14dcf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_cc53db82711e525f6ad35fd90e20ff35d5c63413\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_756c6af16770b1436de2c9a7d5908d8a3c876e56.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_0095e695f19606d777ea0075c9d4615f5ea6ac40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_d5111442be3df547a006e8f9e6b64b11c27fa53b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_cb2b689d60745ab883f26d78fddd66854a91d929\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_f122e12c3c56e9b5a0279b230d42c3cb2265a71d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_014dd33f787b29bf9e7e5f66efc270c8b05bee69\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\Projects\FireApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="S:\Projects\FireApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-10.0.1_33419198c65414fe1c903a9c0436cebd2fead242.jar" />
+    </item>
+
+</items>
